@@ -16,4 +16,4 @@
 
         echo "Cadastrado com sucesso!";
 
-        header("refresh:3;url=cadastro.html");
+        header("refresh:3;url=home.html");
